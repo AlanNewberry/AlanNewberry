@@ -88,7 +88,7 @@ También dedico buena parte de mi tiempo a la **ciberseguridad**. Tengo formaci�
 
 ## ⭐ Mis Trabajos & Experiencia Profesional
 
-## ⚠️ Nota: La mayor parte de mi trabajo profesional se desarrolla en repositorios privados por razones de confidencialidad, privacidad y seguridad de los proyectos de mis clientes. Las tecnologías usadas y mencionadas en este perfil han sido publicados con la autorización correspondiente, con el objetivo de mostrar mi forma de trabajar y las tecnologías que utilizo.
+## ⚠️ Nota: La mayor parte de mi trabajo profesional se desarrolla en repositorios privados por razones de confidencialidad y seguridad hacia los proyectos de mis clientes. Las tecnologías usadas y mencionadas en este perfil han sido publicados con la autorización correspondiente, con el objetivo de mostrar mi forma de trabajar y las tecnologías que utilizo.
 
 ### 🏥 [Vandal Health](https://www.vandalsystems.com/es/vandal-health)
 SaaS multi-tenant para clínicas y consultorios.
