@@ -167,11 +167,6 @@ App Android para pesaje de vehículos de competición vía Bluetooth Low Energy.
 
 [![HTB Profile](https://www.hackthebox.com/badge/image/946583)](https://app.hackthebox.com/users/946583)
 
-![Rank](https://img.shields.io/badge/Rank-Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Machines](https://img.shields.io/badge/Machines-21%20%2F%20547-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Sherlocks](https://img.shields.io/badge/Sherlocks-12%20%2F%20162-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Challenges](https://img.shields.io/badge/Challenges-33%20%2F%20841-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-
 Practico CTFs y máquinas de [Hack The Box](https://app.hackthebox.com/users/946583) de forma regular, aplicando ahí lo que estudio todos los días. Por respeto a la comunidad de HTB, para las máquinas que siguen activas (incluyendo las de la Season en curso) solo indico la categoría general sin detalles de explotación, hasta que se retiren de la plataforma.
 
 <table>
@@ -182,18 +177,18 @@ Practico CTFs y máquinas de [Hack The Box](https://app.hackthebox.com/users/946
 
 | Target | Dificultad | Categoría general |
 |:--|:-:|:--|
-| Enigma | 🟢 Easy | Web exploitation (Linux) |
+| MakeSence | 🟡 Medium | Client-side attacks (Linux) |
 | DevHub | 🟡 Medium | Web/API exploitation (Linux) |
 | Connected | 🟢 Easy | Web exploitation (Linux) |
 | Paperwork | 🟢 Easy | Servicios de impresión / red (Linux) |
-| Reactor | ⚪ — | Web exploitation (Linux) |
+| FireFlow | 🟡 Medium | Web/AI tooling + Kubernetes (Linux) |
+| SmartHire | 🟡 Medium | Web exploitation / MLOps (Linux) |
+| Blurry | 🟡 Medium | Web/MLOps exploitation (Linux) |
 | Principal | 🟡 Medium | Web/API + criptografía (Linux) |
-| Kobold | ⚪ — | Web exploitation / contenedores (Linux) |
+| Kobold | 🟢 Easy | Web exploitation / contenedores (Linux) |
 | Silentium | 🟢 Easy | Web exploitation / AI tooling (Linux) |
 | Orion | 🟢 Easy | Web exploitation (Linux) |
 | Nexus | 🟢 Easy | Web exploitation (Linux) |
-| FireFlow | 🟡 Medium | Web/AI tooling + Kubernetes (Linux) |
-| SmartHire | 🟡 Medium | Web exploitation / MLOps (Linux) |
 
 *Detalles técnicos completos (foothold, escalada a root, CVEs) las agregaré una vez que cada máquina se retire.*
 
