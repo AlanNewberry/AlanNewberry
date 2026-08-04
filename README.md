@@ -167,9 +167,10 @@ App Android para pesaje de vehículos de competición vía Bluetooth Low Energy.
 
 [![HTB Profile](https://www.hackthebox.com/badge/image/946583)](https://app.hackthebox.com/users/946583)
 
-![Machines](https://img.shields.io/badge/Machines-12%20%2F%20547-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Rank](https://img.shields.io/badge/Rank-Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Machines](https://img.shields.io/badge/Machines-21%20%2F%20547-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![Sherlocks](https://img.shields.io/badge/Sherlocks-12%20%2F%20162-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Challenges](https://img.shields.io/badge/Challenges-34%20%2F%20841-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Challenges](https://img.shields.io/badge/Challenges-33%20%2F%20841-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 Practico CTFs y máquinas de [Hack The Box](https://app.hackthebox.com/users/946583) de forma regular, aplicando ahí lo que estudio todos los días. Por respeto a la comunidad de HTB, para las máquinas que siguen activas (incluyendo las de la Season en curso) solo indico la categoría general sin detalles de explotación, hasta que se retiren de la plataforma.
 
