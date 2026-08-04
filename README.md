@@ -167,9 +167,9 @@ App Android para pesaje de vehículos de competición vía Bluetooth Low Energy.
 
 [![HTB Profile](https://www.hackthebox.com/badge/image/946583)](https://app.hackthebox.com/users/946583)
 
-![Machines](https://img.shields.io/badge/Machines-14%20%2F%20547-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Machines](https://img.shields.io/badge/Machines-12%20%2F%20547-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![Sherlocks](https://img.shields.io/badge/Sherlocks-12%20%2F%20162-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Challenges](https://img.shields.io/badge/Challenges-28%20%2F%20841-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Challenges](https://img.shields.io/badge/Challenges-34%20%2F%20841-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 Practico CTFs y máquinas de [Hack The Box](https://app.hackthebox.com/users/946583) de forma regular, aplicando ahí lo que estudio todos los días. Por respeto a la comunidad de HTB, para las máquinas que siguen activas (incluyendo las de la Season en curso) solo indico la categoría general sin detalles de explotación, hasta que se retiren de la plataforma.
 
@@ -186,6 +186,13 @@ Practico CTFs y máquinas de [Hack The Box](https://app.hackthebox.com/users/946
 | Connected | 🟢 Easy | Web exploitation (Linux) |
 | Paperwork | 🟢 Easy | Servicios de impresión / red (Linux) |
 | Reactor | ⚪ — | Web exploitation (Linux) |
+| Principal | 🟡 Medium | Web/API + criptografía (Linux) |
+| Kobold | ⚪ — | Web exploitation / contenedores (Linux) |
+| Silentium | 🟢 Easy | Web exploitation / AI tooling (Linux) |
+| Orion | 🟢 Easy | Web exploitation (Linux) |
+| Nexus | 🟢 Easy | Web exploitation (Linux) |
+| FireFlow | 🟡 Medium | Web/AI tooling + Kubernetes (Linux) |
+| SmartHire | 🟡 Medium | Web exploitation / MLOps (Linux) |
 
 *Detalles técnicos completos (foothold, escalada a root, CVEs) las agregaré una vez que cada máquina se retire.*
 
@@ -199,6 +206,9 @@ Practico CTFs y máquinas de [Hack The Box](https://app.hackthebox.com/users/946
 | space_explorer | 🌐 Web |
 | Baby Frame | 🛰️ Satellite |
 | Espresso | 🔩 Hardware/Firmware |
+| ReactOOPS | 🌐 Web |
+| PLC EtherNet/IP | 🏭 ICS/OT |
+| Global Hyperlink Zone | ⚛️ Quantum |
 
 <details>
 <summary>Ver técnica por challenge</summary>
@@ -207,6 +217,9 @@ Practico CTFs y máquinas de [Hack The Box](https://app.hackthebox.com/users/946
 - **space_explorer:** Bypass de auth por diferencia de parseo JSON case-sensitive entre Go y Python
 - **Baby Frame:** Construcción de CCSDS space packet / TC frame en Python con `pwntools`
 - **Espresso:** Reversing de firmware ESP32/Xtensa, emulado en QEMU para saltear un chequeo anti-clonado
+- **ReactOOPS:** RCE vía CVE-2025-55182 (React2Shell) explotando prototype pollution en la resolución de modelos de React Flight
+- **PLC EtherNet/IP:** Enumeración de un PLC ControlLogix simulado con `pycomm3`; la flag estaba en el identity del dispositivo, no en un tag
+- **Global Hyperlink Zone:** Construcción de un circuito cuántico de 5 qubits (Hadamard + CNOT) para pasar una validación de correlación entre shares medidos
 
 </details>
 
