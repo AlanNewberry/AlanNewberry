@@ -65,6 +65,12 @@ También dedico buena parte de mi tiempo a la **ciberseguridad**. Tengo formaci�
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- Contenerización de aplicaciones con Docker y escritura de Dockerfiles propios para entornos de desarrollo y producción
+
+**Automatización**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+- Diseño de workflows y automatizaciones con n8n (integraciones entre APIs, servicios externos y procesos internos)
 
 **Testing**
 
