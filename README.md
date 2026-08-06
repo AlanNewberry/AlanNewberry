@@ -104,7 +104,7 @@ SaaS multi-tenant para clínicas y consultorios.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Features:** Multi-tenant, RBAC, Row Level Security, agenda médica, gestión de pacientes, automatizaciones, panel administrativo, APIs REST.
+Features: Plataforma SaaS multi-tenant, RBAC, Row Level Security (RLS), agenda médica, gestión de pacientes, automatizaciones con n8n, panel administrativo, APIs REST, integración de servicios externos y despliegue con Docker.
 
 ### 🌐 [Vandal Systems](https://vandalsystems.com)
 Sitio institucional con foco en rendimiento, SEO y experiencia de usuario.
