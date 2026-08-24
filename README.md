@@ -164,7 +164,7 @@ Red social desarrollada desde cero.
 
 **Features:** OAuth Google, publicaciones, comentarios, reacciones, perfiles, backend completo.
 
-### 🎮 Oops
+### 🎮 [Oops](https://oops.vandalsystems.com/)
 Videojuego móvil de sopa de letras desarrollado con React Native y Supabase. Próximamente en App Store y Google Play.
 
 🔗 oops.vandalsystems.com
