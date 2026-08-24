@@ -164,11 +164,15 @@ Red social desarrollada desde cero.
 
 **Features:** OAuth Google, publicaciones, comentarios, reacciones, perfiles, backend completo.
 
-### 🎮 Oops
-Videojuego móvil desarrollado con React Native y Supabase. Finalizado, pendiente de publicación por decisiones comerciales.
+🎮 Oops
+Videojuego móvil de sopa de letras desarrollado con React Native y Supabase. Próximamente en App Store y Google Play.
+
+🔗 oops.vandalsystems.com
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
 
 ### 🏎️ [RACE.COM](https://play.google.com/store/apps/details?id=com.racecom.balanzaapp)
 App Android para pesaje de vehículos de competición vía Bluetooth Low Energy.
