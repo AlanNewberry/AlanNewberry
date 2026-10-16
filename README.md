@@ -67,7 +67,7 @@ I bring a security mindset to everything I build: authentication, authorization,
 
 ## 🎯 Training
 
-- **Hack The Box:** Hacker rank · 35 machines · 41 challenges · 12 Sherlocks (incl. Hard: Nimbus, Ghostlink, Checkpoint, Snapped)
+- **Hack The Box:** Pro Hacker rank · 37 machines · 41 challenges · 12 Sherlocks (incl. Hard: Garfield, Nimbus, Ghostlink, Checkpoint, Snapped)
 - **Hack4u:** Ethical Hacking · Offensive Python · Linux · Professional Linux environments
 
 ## 📫 Contact
