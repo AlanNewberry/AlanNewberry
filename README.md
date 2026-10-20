@@ -10,7 +10,7 @@ Software developer with 3+ years of freelance experience shipping web, mobile an
 
 I bring a security mindset to everything I build: authentication, authorization, multi-tenant isolation and secure APIs. In parallel I train in offensive security (Hack The Box, Hack4u) and publish security tooling and proof-of-concepts for authorized environments.
 
-📍 Buenos Aires, Argentina · 🌎 Remote / hybrid · 🗣️ Spanish (native), English (B1 spoken, B2 reading/writing)
+📍 Buenos Aires, Argentina.
 
 **Open to:** Backend / Python developer · Full stack developer · IT support · Security analyst / AppSec
 
