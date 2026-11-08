@@ -21,8 +21,8 @@ I bring a security mindset to everything I build: authentication, authorization,
 | Product | What it is | Stack |
 |---|---|---|
 | **[Fix!](https://www.fixarg.ar)** | Service marketplace — native apps live on **App Store & Google Play** | Swift, Kotlin, Firebase, APNs/FCM, Mercado Pago |
-| **[RACE.COM](https://play.google.com/store/apps/details?id=com.racecom.balanzaapp)** | Client app for motorsport scales, live on **Google Play** | Kotlin, Bluetooth Low Energy (GATT) |
-| **Oops** | Mobile app live on **Google Play** | TypeScript |
+| **[RACE.COM](https://racecom-web.vercel.app/)** | Client app for motorsport scales — native apps live on **App Store & Google Play** | Swift, SwiftUI, Kotlin, Bluetooth Low Energy (CoreBluetooth/GATT), Supabase |
+| **[Oops](https://oops.vandalsystems.com/)** | Word search mobile game live on the **App Store** | React Native, TypeScript, Supabase |
 | **[Spotter Route Planner](https://spotter-planner.vercel.app)** | Logistics planner for a US client: routing, maps, HOS daily logs | Python, Django REST, React, Leaflet, Vitest |
 | **[Vulnex](https://vulnex.vandalsystems.com)** | SaaS for breach exposure, leaked credentials and typosquatting monitoring | TypeScript, PostgreSQL, external APIs |
 | **[Vandal Health](https://www.vandalsystems.com/vandal-health)** | Multi-tenant clinical management SaaS | Next.js, PostgreSQL/Supabase, RBAC, Row Level Security |
