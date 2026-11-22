@@ -12,8 +12,6 @@ I bring a security mindset to everything I build: authentication, authorization,
 
 📍 Buenos Aires, Argentina.
 
-**Open to:** Backend / Python developer · Full stack developer · IT support · Security analyst / AppSec
-
 ---
 
 ## 🚀 Shipped products
